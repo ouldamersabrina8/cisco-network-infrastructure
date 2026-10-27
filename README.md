@@ -42,7 +42,13 @@ Les topologies, fichiers de configuration et captures des tests seront ajoutés 
 
 **Contexte :** Projet académique — Collège LaSalle, Montréal.
 
-## Vue d'ensemble des laboratoires Cisco
+## Architecture de l'infrastructure réseau sécurisée
 
-![Topologies et configurations EIGRP et OSPF](Configuration%20EIGRP%20et%20OSPF.png)
+Cette topologie représente une infrastructure d'entreprise composée d'un réseau Campus, d'une succursale (Branch) et d'un accès Internet simulé.
+
+Le projet porte sur l'administration des équipements Cisco, les services réseau, la sécurisation des accès, la protection de couche 2, le pare-feu ZPF et le VPN IPsec site-à-site.
+
+### Topologie générale du projet
+![Topologie générale de l'infrastructure réseau Cisco](Network%20Topology.png)
+
 
