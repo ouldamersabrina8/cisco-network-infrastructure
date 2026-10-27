@@ -44,5 +44,5 @@ Les topologies, fichiers de configuration et captures des tests seront ajoutés 
 
 ## Vue d'ensemble des laboratoires Cisco
 
-![Topologies et configurations EIGRP et OSPF](Configuration EIGRP et OSPF.png)
+![Topologies et configurations EIGRP et OSPF](Configuration%20EIGRP%20et%20OSPF.png)
 
