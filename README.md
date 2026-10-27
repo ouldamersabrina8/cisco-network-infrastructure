@@ -41,3 +41,8 @@ Les topologies, fichiers de configuration et captures des tests seront ajoutés 
 ---
 
 **Contexte :** Projet académique — Collège LaSalle, Montréal.
+
+## Vue d'ensemble des laboratoires Cisco
+
+![Topologies et configurations EIGRP et OSPF](Configuration EIGRP et OSPF.png)
+
